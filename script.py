@@ -8,3 +8,5 @@ print(r.ok)
 print("yadda")
 
 print("Hello Again!")"
+
+print((x=y=z))
